@@ -1,0 +1,10 @@
+.form_reg{
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    background-color: azure;
+    border-radius: 8px;
+}

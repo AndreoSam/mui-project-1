@@ -1,0 +1,7 @@
+.app{
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.5);
+}

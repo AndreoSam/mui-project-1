@@ -1,0 +1,16 @@
+.form_reg {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  margin-left: 35%;
+  margin-right: 35%;
+  border-radius: 5px;
+  border: 1px solid grey;
+  box-shadow: 5px 10px 10px;
+}
+
+.label {
+  align-items: left;
+}
